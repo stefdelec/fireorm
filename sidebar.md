@@ -1,0 +1,47 @@
+- Getting Started
+
+  - [Usage](README.md)
+  - [Core Concepts](Core_Concepts.md)
+
+- Retrieving and Managing Data
+
+  - [Retrieve Data](Read_Data.md)
+  - [Manage Data](Manage_Data.md)
+  - [SubCollections](Subcollections.md)
+  - [Transactions](Transactions.md)
+  - [Batches](Batches.md)
+  - [Custom Repositories](Custom_Repositories.md)
+  - [Validation](Validation.md)
+
+- Types Documentation
+- [Summary](globals.md)
+  - Classes
+    - [AbstractFirestoreRepository](classes/abstractfirestorerepository.md)
+    - [BandRepository](classes/bandrepository.md)
+    - [BaseFirestoreBatchRepository](classes/basefirestorebatchrepository.md)
+    - [BaseFirestoreRepository](classes/basefirestorerepository.md)
+    - [BaseRepository](classes/baserepository.md)
+    - [FakeExecutor](classes/fakeexecutor.md)
+    - [FirestoreBatch](classes/firestorebatch.md)
+    - [FirestoreBatchSingleRepository](classes/firestorebatchsinglerepository.md)
+    - [FirestoreBatchUnit](classes/firestorebatchunit.md)
+    - [FirestoreTransaction](classes/firestoretransaction.md)
+    - [MetadataStorage](classes/metadatastorage.md)
+    - [QueryBuilder](classes/querybuilder.md)
+    - [Test](classes/test.md)
+    - [TransactionRepository](classes/transactionrepository.md)
+  - Enums
+    - [FirestoreOperators](enums/firestoreoperators.md)
+  - Interfaces
+    - [CollectionMetadata](interfaces/collectionmetadata.md)
+    - [IBaseRepository](interfaces/ibaserepository.md)
+    - [IEntity](interfaces/ientity.md)
+    - [IFireOrmQueryLine](interfaces/ifireormqueryline.md)
+    - [ILimitable](interfaces/ilimitable.md)
+    - [IMetadataStore](interfaces/imetadatastore.md)
+    - [IOrderByParams](interfaces/iorderbyparams.md)
+    - [IOrderable](interfaces/iorderable.md)
+    - [IQueryExecutor](interfaces/iqueryexecutor.md)
+    - [IQueryable](interfaces/iqueryable.md)
+    - [MetadataStorageConfig](interfaces/metadatastorageconfig.md)
+    - [RepositoryMetadata](interfaces/repositorymetadata.md)
